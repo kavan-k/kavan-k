@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavan-k
-- 👀 I’m interested in ... Gaming,Coding,Cyber Security
-- 🌱 I’m currently learning ... ML
+- 👀 I’m interested in ... Gaming, Coding, Latest Technology
+- 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://twitter.com/kavan13k
 <!---
