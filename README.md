@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavan-k
-- 👀 I’m interested in ... Gaming, Coding, Latest Technology
-- 🌱 I’m currently learning ... Programming, AI, LIFE
+- 👀 I’m interested in ... Gaming, Coding, Latest & Upcoming Technology
+- 🌱 I’m currently learning ... Programming, Generative AI, Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://twitter.com/kavan13k
 <!---
